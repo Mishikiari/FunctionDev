@@ -2,7 +2,6 @@
 import Markdown from 'svelte-markdown';
 import { parse, evaluate, derivative } from 'mathjs';
 import { clipboard } from '@skeletonlabs/skeleton';
-
 import { Stepper, Step } from '@skeletonlabs/skeleton';
 import { setInitialClassState } from '@skeletonlabs/skeleton';
 import { LightSwitch } from '@skeletonlabs/skeleton';
@@ -42,15 +41,12 @@ function showGraph(){
 	if (graph==false){
 		graph = true;
 		const desmosIframe = document.querySelector('#desmos-iframe');
-
     const desmosURL = `https://www.desmos.com/calculator?lang=en&new1=${encodeURIComponent(currentMessage)}`;
-    
     desmosIframe.src = desmosURL;
 	} else{
 		graph = false;
 	}
 }
-
 
 function calculateDerivative() {
  derivatamath = '';
@@ -129,7 +125,7 @@ function calculateDerivative() {
 	<button class="variant-filled-primary" on:click={Xvalue}>add</button>
 	
 </div>
-				 <br />  
+<br />  
 <Accordion autocollapse>
 
 	<AccordionItem open>
