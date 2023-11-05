@@ -1,6 +1,6 @@
 # Function_Dev
 <div style="text-align: center;">
-    **Simple website to solve function**
+   <h1> <b>Simple website to solve function</b></h1>
 </div>
 
 </br>
