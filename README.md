@@ -5,8 +5,7 @@
 
 </br>
 <div style="text-align: center;">
-   <h3>Site</h3>
-    <img src="https://benevolent-pavlova-82e181.netlify.app/">
+    <p><a href="https://www.example.com">Site</a>
 </div>
 
 <p align="center">
