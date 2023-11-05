@@ -4,7 +4,7 @@
 </div>
 
 <div style="text-align: center;">
-    <p><a href="https://www.example.com">Site</a>
+    <p><a href="https://benevolent-pavlova-82e181.netlify.app/">Site</a>
 </div>
 </br>
 <p align="center">
