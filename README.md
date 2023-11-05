@@ -1,11 +1,11 @@
 # Function_Dev
 <div style="text-align: center;">
-   <h1> <b>Simple website to solve function</b></h1>
+   <h3> <b>Simple website to solve function</b></h3>
 </div>
 
 </br>
 <div style="text-align: center;">
-    [`Site`](https://benevolent-pavlova-82e181.netlify.app/)
+ <h3>   [`Site`](https://benevolent-pavlova-82e181.netlify.app/)</h3>
 </div>
 
 
