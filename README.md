@@ -5,9 +5,9 @@
 
 </br>
 <div style="text-align: center;">
- <h3>   [`Site`](https://benevolent-pavlova-82e181.netlify.app/)</h3>
+   <h3>Site</h3>
+    <img src="https://benevolent-pavlova-82e181.netlify.app/">
 </div>
-
 
 <p align="center">
   <img src="static/fundevT.gif" />
