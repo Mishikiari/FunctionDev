@@ -41,8 +41,8 @@ function showGraph(){
 	if (graph==false){
 		graph = true;
 		const desmosIframe = document.querySelector('#desmos-iframe');
-    const desmosURL = `https://www.desmos.com/calculator?lang=en&new1=${encodeURIComponent(currentMessage)}`;
-    desmosIframe.src = desmosURL;
+		const desmosURL = `https://www.desmos.com/calculator?lang=en&new1=${encodeURIComponent(currentMessage)}`;
+   		desmosIframe.src = desmosURL;
 	} else{
 		graph = false;
 	}
